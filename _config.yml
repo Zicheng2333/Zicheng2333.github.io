@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zicheng Xie"
-description              : "Undergraduate researcher in machine learning, multimodal learning, and data-centric AI."
+description              : "Ph.D. student in Statistics at CUHK, researching AI and agent technologies for health and clinical applications."
 repository               : "Zicheng2333/Zicheng2333.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zicheng Xie"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "B.S. student in Data Science @ SUSTech | Incoming Ph.D. in Statistics @ CUHK"
+  bio              : "Ph.D. student in Statistics @ CUHK | AI and agent technologies for health"
   location         : "Shenzhen / Hong Kong"
   employer         :
   pubmed           : 
   googlescholar    :
-  email            : "zichengxie26@163.com"
+  email            : "zichengxie51@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
